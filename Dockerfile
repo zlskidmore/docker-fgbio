@@ -2,7 +2,7 @@
 FROM ubuntu:18.04
 
 # set the environment variables
-ENV fgbio_version 0.8.1
+ENV fgbio_version 1.0.0
 ENV FGBIO /usr/local/bin/fgbio.jar
 
 # run update and install necessary tools
